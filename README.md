@@ -34,7 +34,12 @@ The models are evaluated based on various metrics like accuracy, precision, reca
 
 https://diabetes-prediction-6n4l.onrender.com
 
+
 **Contributing**
 Contributions are welcome! If you have suggestions for improvement or new features, please feel free to open an issue or submit a pull request.
+
+
+![Screenshot (92)](https://github.com/user-attachments/assets/beb4d9b6-15ba-4051-87a9-116e26990d61)
+
 
 
